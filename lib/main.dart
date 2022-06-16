@@ -35,6 +35,7 @@ class _MyAppState extends State<MyApp> {
           child: Column(
             
             children: [
+               SizedBox(height: 200,),
               Container(
                 child: CircleAvatar(
                   backgroundImage: 
